@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Sarthak+Vitmal+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Joint+Technical+Head+%40+CSI+PCE;SIH+2024+Finalist+%F0%9F%8F%86;280%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Sarthak+Vitmal+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Joint+Technical+Head+%40+CSI+PCE;SIH+2024+Finalist+%F0%9F%8F%86;380%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
 </div>
 
 <div align="center">
