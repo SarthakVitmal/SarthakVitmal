@@ -6,7 +6,7 @@
 
 ## Professional Summary
 
-Results-driven **Full Stack Developer** with expertise in modern web technologies and a strong foundation in computer science principles. Currently serving as **Joint Technical Head at CSI PCE**, where I lead technical initiatives and mentor emerging developers. Recognized as a **finalist in Smart India Hackathon 2024** with demonstrated problem-solving abilities through **380+ LeetCode solutions**.
+Results-driven **Full Stack Developer** with expertise in modern web technologies and a strong foundation in computer science principles. Currently serving as **Joint Technical Head at CSI PCE**, where I lead technical initiatives and mentor emerging developers. Recognized as a **finalist in Smart India Hackathon 2024** with demonstrated problem-solving abilities through **400+ LeetCode solutions**.
 
 ### Core Competencies:
 - Full Stack Development (React, Node.js, MongoDB)
