@@ -1,190 +1,113 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Sarthak+Vitmal+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Joint+Technical+Head+%40+CSI+PCE;SIH+2024+Finalist+%F0%9F%8F%86;380%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="800" height="400"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Sarthak+Vitmal;Full+Stack+Developer+%7C+Technical+Leader;Joint+Technical+Head+%40+CSI+PCE;SIH+2024+Finalist+%7C+LeetCode+Expert" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🚀 About Me
+## Professional Summary
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+Results-driven **Full Stack Developer** with expertise in modern web technologies and a strong foundation in computer science principles. Currently serving as **Joint Technical Head at CSI PCE**, where I lead technical initiatives and mentor emerging developers. Recognized as a **finalist in Smart India Hackathon 2024** with demonstrated problem-solving abilities through **380+ LeetCode solutions**.
 
-I'm a passionate **Full Stack Developer** and **Computer Science student** with a strong foundation in modern web technologies and problem-solving. As the **Joint Technical Head at CSI PCE**, I lead technical initiatives and mentor fellow developers while continuously expanding my expertise in cutting-edge technologies.
-
-### 🎯 Quick Facts
-- 🔭 **Currently Building:** Scalable web applications and contributing to open source
-- 🌱 **Learning:** React Native, DevOps, and Advanced System Design  
-- 👯 **Open to:** Collaboration on innovative web projects and AI/ML solutions
-- 💬 **Ask me about:** Full Stack Development, DSA, and Competitive Programming
-- ⚡ **Fun fact:** I've solved 380+ LeetCode problems and love hackathons!
-
-```javascript
-const sarthak = {
-    title: "Full Stack Developer",
-    location: "India",
-    education: "Computer Science Student",
-    role: "Joint Technical Head @ CSI PCE",
-    
-    expertise: {
-        frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
-        backend: ["Node.js", "Express.js", "MongoDB", "MySQL"],
-        tools: ["Git", "Docker", "AWS", "Vercel"],
-        languages: ["JavaScript", "TypeScript", "Java", "Python"]
-    },
-    
-    currentGoals: [
-        "Building production-ready applications",
-        "Contributing to open source projects", 
-        "Mastering system design patterns",
-        "Exploring cloud architecture"
-    ],
-    
-    achievements: ["SIH 2024 Finalist", "380+ LeetCode solved", "CSI Technical Head"]
-};
-```
+### Core Competencies:
+- Full Stack Development (React, Node.js, MongoDB)
+- Software Architecture & System Design
+- Technical Leadership & Mentorship
+- Algorithm Optimization & Problem Solving
+- Agile Development Methodologies
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Technical Proficiencies
 
+### Languages & Frameworks
 <div align="center">
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
+</div>
 
 ### Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS">
+</div>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+### Development Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira">
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## Professional Experience
+
+### Joint Technical Head | CSI PCE
+- Lead technical workshops and hackathons for 100+ students
+- Mentor junior developers in full-stack development best practices
+- Oversee implementation of chapter's technical projects
+- Collaborate with industry partners for technical events
+
+### Smart India Hackathon 2024 Finalist
+- Developed innovative solution addressing for Smart Automation Domain
+- Recognized among top teams in national competition
+
+---
+
+## Technical Achievements
+
+- **LeetCode Expert**: Solved 380+ problems with focus on algorithms and data structures
+- **Full Stack Projects**: Designed and deployed 5+ production-ready applications
+- **Technical Writing**: Authored technical articles on modern web development
+- **Open Source**: Contributed to [mention notable projects if applicable]
+
+---
+
+## GitHub Metrics
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SarthakVitmal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakVitmal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=SarthakVitmal&show_icons=true&theme=blueberry&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakVitmal&theme=blueberry&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakVitmal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SarthakVitmal&theme=tokyonight" alt="Profile Summary" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakVitmal&layout=compact&theme=blueberry&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-## 🏆 Achievements & Milestones
+## Currently Enhancing Skills In
+
+- **Advanced System Design** patterns and architectures
+- **Cloud Native Development** with AWS/GCP
+- **Performance Optimization** techniques
+- **DevOps Practices** including CI/CD pipelines
+
+---
+
+## Professional Connections
 
 <div align="center">
-  
-| Achievement | Description | Impact |
-|-------------|-------------|---------|
-| 🥇 **SIH 2024 Finalist** | Selected among top teams nationwide in Smart India Hackathon | National Recognition |
-| 🎯 **Joint Technical Head @ CSI PCE** | Leading technical initiatives and mentoring students | Leadership & Community |
-| 💪 **380+ LeetCode Problems** | Consistent problem-solving and algorithm mastery | Technical Excellence |
-| 🚀 **Multiple Full-Stack Projects** | Built and deployed production-ready applications | Practical Experience |
-| 👥 **Open Source Contributor** | Active participation in developer community | Collaboration |
-
-</div>
-
-### 💻 Coding Platforms
-<div align="center">
+  <a href="https://linkedin.com/in/sarthak-vitmal">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:sarthak.vitmal.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
   <a href="https://leetcode.com/SarthakVitmal/">
-    <img src="https://leetcard.jacoblin.cool/SarthakVitmal?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
 </div>
 
 ---
 
-## 🎯 Current Focus Areas
-
 <div align="center">
-
-```mermaid
-mindmap
-  root((Sarthak's Focus))
-    Full Stack Development
-      React Ecosystem
-      Node.js & APIs
-      Database Design
-    Problem Solving
-      Data Structures
-      Algorithms
-      Competitive Programming
-    Leadership
-      Team Management
-      Technical Mentoring
-      Community Building
-    Emerging Tech
-      Cloud Computing
-      DevOps Practices
-      AI/ML Integration
-```
-
-</div>
-
-**🔥 What I'm Working On:**
-- Building scalable web applications with modern tech stacks
-- Solving complex algorithmic challenges daily
-- Leading technical projects at CSI PCE
-- Contributing to open source projects
-- Learning cloud architecture and DevOps practices
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthak-vitmal)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/SarthakVitmal/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthak.vitmal.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sarthakvitmal.vercel.app)
-
-**💬 Open to discussing:** Full Stack Development, Technical Leadership, Open Source Collaboration, and Innovative Project Ideas
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
----
-
-<div align="center">
-  
-### 💡 "Great developers are not born, they are forged through consistent practice and continuous learning."
-
-**Thank you for visiting my profile! Let's build something amazing together! 🚀**
-
-<img src="https://komarev.com/github-profile-views?username=SarthakVitmal&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-
+  <img src="https://komarev.com/ghpvc/?username=SarthakVitmal&label=Profile+Views&color=2563EB&style=flat" alt="Profile Views" />
 </div>
