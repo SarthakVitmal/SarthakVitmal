@@ -63,7 +63,7 @@ Results-driven **Full Stack Developer** with expertise in modern web technologie
 
 ## Technical Achievements
 
-- **LeetCode Expert**: Solved 380+ problems with focus on algorithms and data structures
+- **LeetCode Expert**: Solved 450+ problems with focus on algorithms and data structures
 - **Full Stack Projects**: Designed and deployed 5+ production-ready applications
 - **Technical Writing**: Authored technical articles on modern web development
 - **Open Source**: Contributed to [mention notable projects if applicable]
