@@ -73,7 +73,7 @@ Results-driven **Full Stack Developer** with expertise in modern web technologie
 ## GitHub Metrics
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=SarthakVitmal&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=SarthakVitmal&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 ---
